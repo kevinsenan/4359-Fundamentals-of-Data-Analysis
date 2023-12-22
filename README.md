@@ -5,8 +5,20 @@ This repository contains two assessments; project.ipynb and tasks.ipynb.
 
 The project is to look at the Iris dataset which is a multivariate dataset meaning there is more than one variable in the dataset, Ronald Fisher first created it in 1936, he was a Statistician from the UK. 
 
-The second part of the coursework is a list of 5 tasks to be worked through. We look at a famous mathematical problem, the Collatz conjecture, followed by work on another dataset featuring Penguins. We also look at a prblem in probability using the flipping of two coins.
+The second part of the coursework is a list of 5 tasks to be worked through. We look at a famous mathematical problem, the Collatz conjecture, followed by work on another dataset featuring Penguins. We also look at a problem in probability using the flipping of two coins.
 
+
+To open and run the files
+
+1. Install Anaconda
+Open the following web site and install Anaconda (python) from https://www.anaconda.com/products/individual
+When asked, check the two check boxes
+Make sure to add to PATH variable
+Be sure to make this your default Python
+
+2 Open the files
+Download the ipynb notebook from this repository
+Navigate to the folder you saved the notebook in and open the ipynb notebook in Anaconda
 
 REFERENCES:
 [1] https://www.geeksforgeeks.org/data-analysis-tutorial/
